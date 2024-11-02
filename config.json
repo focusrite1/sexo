@@ -1,0 +1,351 @@
+{
+    "clients": [
+        {
+            "fortnite": {
+                "email": "frfvipf@gmail.com",
+                "nickname": "yaserfazil",
+                "owner": [
+                    "<User id='0dad3c17ba9e4e42bee8219767010b11' display_name='mosey ㅤ' external_auths=[]>"
+                ],
+                "outfit": "<Item name='Renegade Raider' id='CID_028_Athena_Commando_F' path='AthenaCharacterItemDefinition'/Game/Athena/Items/Cosmetics/Characters/CID_028_Athena_Commando_F.CID_028_Athena_Commando_F''>",
+                "outfit_style": null,
+                "ng_outfits": null,
+                "ng_outfit_for": [
+                    "user",
+                    "blacklist"
+                ],
+                "ng_outfit_operation": [
+                    "kick"
+                ],
+                "ng_outfit_reply": null,
+                "join_outfit": null,
+                "join_outfit_style": null,
+                "join_outfit_on": "me",
+                "leave_outfit": null,
+                "leave_outfit_style": null,
+                "leave_outfit_on": "me",
+                "outfit_mimic_for": null,
+                "outfit_lock_for": null,
+                "backpack": "<Item name='Galactic Disc' id='BID_138_Celestial' path='AthenaBackpackItemDefinition'FortniteGame/Plugins/GameFeatures/BRCosmetics/Content/Athena/Items/Cosmetics/Backpacks/BID_138_Celestial.BID_138_Celestial''>",
+                "backpack_style": null,
+                "ng_backpacks": null,
+                "ng_backpack_for": [
+                    "user",
+                    "blacklist"
+                ],
+                "ng_backpack_operation": [
+                    "kick"
+                ],
+                "ng_backpack_reply": null,
+                "join_backpack": null,
+                "join_backpack_style": null,
+                "join_backpack_on": "me",
+                "leave_backpack": null,
+                "leave_backpack_style": null,
+                "leave_backpack_on": "me",
+                "backpack_mimic_for": null,
+                "backpack_lock_for": null,
+                "pickaxe": "<Item name='Silver Sleet' id='Pickaxe_Ballerina' path='AthenaPickaxeItemDefinition'FortniteGame/Plugins/GameFeatures/BRCosmetics/Content/Athena/Items/Cosmetics/PickAxes/Pickaxe_Ballerina.Pickaxe_Ballerina''>",
+                "pickaxe_style": null,
+                "do_point": true,
+                "ng_pickaxes": null,
+                "ng_pickaxe_for": [
+                    "user",
+                    "blacklist"
+                ],
+                "ng_pickaxe_operation": [
+                    "kick"
+                ],
+                "ng_pickaxe_reply": null,
+                "join_pickaxe": null,
+                "join_pickaxe_style": null,
+                "join_pickaxe_on": "me",
+                "leave_pickaxe": null,
+                "leave_pickaxe_style": null,
+                "leave_pickaxe_on": "me",
+                "pickaxe_mimic_for": null,
+                "pickaxe_lock_for": null,
+                "emote": "<Item name='Scenario' id='EID_KPopDance03' path='AthenaDanceItemDefinition'/Game/Athena/Items/Cosmetics/Dances/EID_KPopDance03.EID_KPopDance03''>",
+                "emote_section": null,
+                "repeat_emote_when_join": true,
+                "ng_emotes": null,
+                "ng_emote_for": [
+                    "user",
+                    "blacklist"
+                ],
+                "ng_emote_operation": [
+                    "kick"
+                ],
+                "ng_emote_reply": null,
+                "join_emote": null,
+                "join_emote_section": null,
+                "join_emote_on": "user",
+                "leave_emote": null,
+                "leave_emote_section": null,
+                "leave_emote_on": "me",
+                "emote_mimic_for": null,
+                "emote_lock_for": null,
+                "leave_delay_for": 1.0,
+                "refresh_on_reload": true,
+                "party": {
+                    "privacy": "PUBLIC",
+                    "max_size": 16,
+                    "allow_swap": true,
+                    "playlist": "<Playlist name='Duos' id='Playlist_HabaneroDuo'>",
+                    "disable_voice_chat": false
+                },
+                "avatar_id": null,
+                "avatar_color": "RED",
+                "banner_id": "NewsletterBanner",
+                "banner_color": "",
+                "level": 7777,
+                "tier": 100,
+                "platform": "AND",
+                "ng_platforms": [
+                    "AND"
+                ],
+                "ng_platform_for": [
+                    "user",
+                    "whitelist",
+                    "blacklist",
+                    "owner",
+                    "bot"
+                ],
+                "ng_platform_operation": [
+                    "kick",
+                    "remove",
+                    "block"
+                ],
+                "ng_platform_reply": null,
+                "ng_names": [],
+                "ng_name_for": [
+                    "user",
+                    "blacklist"
+                ],
+                "ng_name_operation": [
+                    "kick"
+                ],
+                "ng_name_reply": null,
+                "status": "Working",
+                "accept_invite_for": [
+                    "user",
+                    "whitelist",
+                    "blacklist",
+                    "owner"
+                ],
+                "decline_invite_when": null,
+                "invite_interval": 0.0,
+                "invite_interval_for": [
+                    "user",
+                    "blacklist"
+                ],
+                "accept_friend_for": [
+                    "user",
+                    "whitelist",
+                    "blacklist",
+                    "owner"
+                ],
+                "send_friend_request": true,
+                "whisper_enable_for": [
+                    "user",
+                    "whitelist",
+                    "blacklist",
+                    "owner"
+                ],
+                "party_chat_enable_for": [
+                    "user",
+                    "whitelist",
+                    "blacklist",
+                    "owner"
+                ],
+                "permission_command_operation": [
+                    "kick"
+                ],
+                "accept_join_for": [
+                    "user",
+                    "whitelist",
+                    "blacklist",
+                    "owner"
+                ],
+                "join_message": [
+                    "Working"
+                ],
+                "join_message_whisper": [
+                    "Working"
+                ],
+                "random_message": [
+                    [
+                        "Working"
+                    ],
+                    [
+                        "Working"
+                    ]
+                ],
+                "random_message_whisper": [],
+                "chat_max": 50,
+                "chat_max_for": [
+                    "user",
+                    "blacklist"
+                ],
+                "chat_max_operation": [
+                    "kick",
+                    "remove",
+                    "block"
+                ],
+                "kick_disconnect": false,
+                "kick_in_match": false,
+                "hide_for": null,
+                "blacklist": [],
+                "blacklist_operation": [
+                    "kick"
+                ],
+                "whitelist": [],
+                "invitelist": [],
+                "botlist": [],
+                "botlist_operation": null,
+                "prefix": null,
+                "exec": {
+                    "ready": null,
+                    "party_join_request": [
+                        "await client.process_command(MyMessage(client, DummyMessage(client, None, content=f'message {DummyUser().id} : Hello', author=DummyUser())), [])"
+                    ],
+                    "party_invite": [
+                        "await client.process_command(MyMessage(client, DummyMessage(client, None, content=f'message {DummyUser().id} : Hello', author=DummyUser())), [])"
+                    ],
+                    "friend_request": [
+                        "await client.process_command(MyMessage(client, DummyMessage(client, None, content=f'message {DummyUser().id} : Hello', author=DummyUser())), [])"
+                    ],
+                    "friend_add": [
+                        "await client.process_command(MyMessage(client, DummyMessage(client, None, content=f'message {DummyUser().id} : Hello', author=DummyUser())), [])"
+                    ],
+                    "friend_remove": [
+                        "await client.process_command(MyMessage(client, DummyMessage(client, None, content=f'message {DummyUser().id} : Hello', author=DummyUser())), [])"
+                    ],
+                    "friend_online": [
+                        "await client.process_command(MyMessage(client, DummyMessage(client, None, content=f'message {DummyUser().id} : Hello', author=DummyUser())), [])"
+                    ],
+                    "friend_offline": [
+                        "await client.process_command(MyMessage(client, DummyMessage(client, None, content=f'message {DummyUser().id} : Hello', author=DummyUser())), [])"
+                    ],
+                    "party_member_join": [
+                        "await client.process_command(MyMessage(client, DummyMessage(client, None, content=f'message {DummyUser().id} : Hello', author=DummyUser())), [])"
+                    ],
+                    "party_member_leave": [
+                        "await client.process_command(MyMessage(client, DummyMessage(client, None, content=f'message {DummyUser().id} : Hello', author=DummyUser())), [])"
+                    ],
+                    "party_member_confirm": [
+                        "await client.process_command(MyMessage(client, DummyMessage(client, None, content=f'message {DummyUser().id} : Hello', author=DummyUser())), [])"
+                    ],
+                    "party_member_kick": [
+                        "await client.process_command(MyMessage(client, DummyMessage(client, None, content=f'message {DummyUser().id} : Hello', author=DummyUser())), [])"
+                    ],
+                    "party_member_promote": null,
+                    "party_update": null,
+                    "party_member_update": null,
+                    "party_member_disconnect": null
+                }
+            },
+            "discord": {
+                "enabled": false,
+                "token": "",
+                "owner": null,
+                "channels": [
+                    "{name}-command-channel"
+                ],
+                "status": "",
+                "status_type": "playing",
+                "chat_max": 1000,
+                "chat_max_for": [
+                    "user",
+                    "blacklist"
+                ],
+                "command_enable_for": [
+                    "whitelist",
+                    "owner"
+                ],
+                "blacklist": [],
+                "whitelist": [],
+                "prefix": null,
+                "exec": {
+                    "ready": null
+                }
+            },
+            "ng_words": [],
+            "ng_word_for": [
+                "user",
+                "blacklist"
+            ],
+            "ng_word_operation": [
+                "chatban"
+            ],
+            "ng_word_reply": null,
+            "relogin_in": 0,
+            "search_max": 60,
+            "no_logs": false,
+            "loglevel": "normal",
+            "discord_log": null,
+            "omit_over2000": true,
+            "skip_if_overflow": true,
+            "case_insensitive": true,
+            "convert_kanji": true
+        }
+    ],
+    "discord": {
+        "enabled": false,
+        "token": "MTE3NjU1NTE4ODY2MDc0MDEyNg.Gn6YOp.Z6a7suMYTE8We3pkC7RpsDGo0Rpb96YPXq3R4s",
+        "owner": [
+            "929815875576537128"
+        ],
+        "channels": [
+            "tnf-0-50"
+        ],
+        "status": "$$$",
+        "status_type": "playing",
+        "chat_max": 1000,
+        "chat_max_for": [
+            "user",
+            "blacklist"
+        ],
+        "command_enable_for": [
+            "user",
+            "whitelist",
+            "blacklist",
+            "owner"
+        ],
+        "blacklist": [],
+        "whitelist": [],
+        "prefix": null,
+        "exec": {
+            "ready": null
+        }
+    },
+    "web": {
+        "enabled": true,
+        "ip": "0.0.0.0",
+        "port": 25822,
+        "password": "",
+        "login_required": false,
+        "command_web": true,
+        "access_log": false,
+        "prefix": null
+    },
+    "check_update_on_startup": true,
+    "restart_in": 0,
+    "lang": "en",
+    "search_lang": "en",
+    "sub_search_lang": "en",
+    "api": "Fortnite-API",
+    "api_key": null,
+    "discord_log": null,
+    "omit_over2000": false,
+    "skip_if_overflow": true,
+    "hide_email": true,
+    "hide_password": true,
+    "hide_token": true,
+    "hide_webhook": true,
+    "hide_weburl": true,
+    "no_logs": false,
+    "loglevel": "normal",
+    "debug": false,
+    "status": 1
+}

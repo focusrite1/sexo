@@ -1,0 +1,3858 @@
+{
+    "80b26dd7597341f58028684189c75486": {
+        "commands": {
+            "Dummy": {
+                "invite": 757
+            },
+            "0a92993bff954c7a9635a4a1dcefa3c9": {
+                "help": 2
+            },
+            "93da93739db842dc9730d5ddb8bc3aa9": {
+                "help": 1
+            },
+            "943994a3a231415fbd0c51cf6b90add8": {
+                "emote": 1
+            },
+            "fbfe2770ad364bc1b1d9add6d2fa4560": {
+                "emote": 1
+            },
+            "2c22064c54344195ab51d5801b96be02": {
+                "emote": 1
+            }
+        },
+        "ngs": {}
+    },
+    "b731c08c28214d6fa2aa3a812db098cc": {
+        "commands": {
+            "Dummy": {
+                "invite": 661
+            }
+        },
+        "ngs": {}
+    },
+    "039300365f9f437bbf6e9fc66435da5b": {
+        "commands": {
+            "Dummy": {
+                "invite": 701
+            }
+        },
+        "ngs": {}
+    },
+    "2b632f749abc4fb3ba0bcf8bbb2cc968": {
+        "commands": {
+            "Dummy": {
+                "invite": 257
+            }
+        },
+        "ngs": {}
+    },
+    "cca5d7b0e8f14ded800c9ec70bbd29be": {
+        "commands": {
+            "Dummy": {
+                "invite": 754
+            }
+        },
+        "ngs": {}
+    },
+    "d586d722b34a4e82a55bc371a93e622a": {
+        "commands": {
+            "Dummy": {
+                "invite": 255
+            }
+        },
+        "ngs": {}
+    },
+    "0a4d4fbe2a414dfb99f06f0d740ce4bb": {
+        "commands": {
+            "Dummy": {
+                "invite": 701
+            }
+        },
+        "ngs": {}
+    },
+    "998b853671524c34b2d6c262b09120a8": {
+        "commands": {
+            "Dummy": {
+                "invite": 755
+            }
+        },
+        "ngs": {}
+    },
+    "2287e9fc146b4ca991b73e090aa824b1": {
+        "commands": {
+            "Dummy": {
+                "invite": 14939
+            },
+            "929815875576537128": {
+                "friend_count": 15
+            }
+        },
+        "ngs": {}
+    },
+    "1db913ee092b4ce79423c39fded689b6": {
+        "commands": {
+            "Dummy": {
+                "invite": 7594
+            },
+            "929815875576537128": {
+                "friend_count": 15
+            }
+        },
+        "ngs": {}
+    },
+    "4558a63b4bcd42c1900e6b36be8fee2a": {
+        "commands": {
+            "Dummy": {
+                "invite": 16136
+            },
+            "929815875576537128": {
+                "friend_count": 15
+            }
+        },
+        "ngs": {}
+    },
+    "b24953d79dcc413dacb7f5d5d8027501": {
+        "commands": {
+            "Dummy": {
+                "invite": 16361
+            },
+            "929815875576537128": {
+                "friend_count": 15
+            }
+        },
+        "ngs": {}
+    },
+    "72d6c086fb15470f9f6b79a4d459823b": {
+        "commands": {
+            "Dummy": {
+                "invite": 13116
+            },
+            "929815875576537128": {
+                "friend_count": 15
+            }
+        },
+        "ngs": {}
+    },
+    "2e755f35f6fe404090e45c7efe53de24": {
+        "commands": {
+            "Dummy": {
+                "invite": 9485
+            },
+            "929815875576537128": {
+                "friend_count": 15
+            }
+        },
+        "ngs": {}
+    },
+    "bf417b3bade14bbf9201e4a4fe8d0ab8": {
+        "commands": {
+            "Dummy": {
+                "invite": 16053
+            },
+            "929815875576537128": {
+                "friend_count": 15
+            }
+        },
+        "ngs": {}
+    },
+    "260ba426db214e66934345d5d3ba4731": {
+        "commands": {
+            "Dummy": {
+                "invite": 12951
+            },
+            "929815875576537128": {
+                "friend_count": 15
+            }
+        },
+        "ngs": {}
+    },
+    "2b9c0193ca654b35bd638766c9e56059": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 18
+            },
+            "Dummy": {
+                "invite": 2477
+            },
+            "17bbc40eb60b4d14afff35edde1c5bc0": {
+                "help": 4
+            },
+            "c7e344573ed046a39d993842083d10a5": {
+                "help": 2
+            },
+            "0d5dc435470e4bddaab65a782ec1bcfc": {
+                "help": 2
+            },
+            "e8d30d73d0114027bff290113521f511": {
+                "pickaxe": 4,
+                "item": 72
+            },
+            "7d546e5493b8487693e89662733d95fd": {
+                "item": 37,
+                "pickaxe": 1,
+                "outfit": 1
+            },
+            "28d3adf7024848f185d6798bed933abe": {
+                "emote": 4
+            },
+            "9ee3f6812e464e2fb5d4a23daf094c7b": {
+                "emote": 4
+            },
+            "0f51be45adb64bc2aa752e7598a859c5": {
+                "emote": 3,
+                "item": 73
+            },
+            "48eb836018a04a2a8fe966cbc700fa6e": {
+                "emote": 1,
+                "item": 37
+            },
+            "8d729305926d43ceb20799598c08dee0": {
+                "emote": 1,
+                "item": 33
+            },
+            "cca5d7b0e8f14ded800c9ec70bbd29be": {
+                "item": 24
+            },
+            "4a94982959ad48d6b245737c016c8fb2": {
+                "help": 1
+            },
+            "871a6a0bac4f42069c1e4c1a69a05418": {
+                "outfit": 2,
+                "item": 63
+            },
+            "90c930f54e694ce58053fc81d1524b9b": {
+                "item": 28,
+                "outfit": 1
+            },
+            "51e8160b17e74613949159972032f1ee": {
+                "help": 1
+            },
+            "9523d6eca9f44ce9bd912fc3eeda591a": {
+                "help": 3
+            },
+            "c92bd296347149ffa49b62f69fd90fd6": {
+                "outfit": 1,
+                "item": 73,
+                "emote": 5
+            },
+            "c36db9abd7d2454f8b8440bbceb1ac9d": {
+                "item": 17,
+                "emote": 1
+            },
+            "103e8454c01e4b3597b5081256470615": {
+                "item": 6
+            },
+            "52fd0a3cd76343f6914b3e455e498073": {
+                "item": 43,
+                "outfit": 2,
+                "emote": 3
+            },
+            "38c90cd59abd4027bbbab283e9ca5795": {
+                "item": 3,
+                "outfit": 1,
+                "emote": 2
+            },
+            "f75f8502e56d46b6b0fd4af16f3b6cc1": {
+                "item": 22,
+                "emote": 1
+            }
+        },
+        "ngs": {}
+    },
+    "8d495fcc6dad446f93821dc7c2c447cd": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 18
+            },
+            "Dummy": {
+                "invite": 16500
+            }
+        },
+        "ngs": {}
+    },
+    "82baf55379ab463f9d8e3cb8540678b7": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 18
+            },
+            "Dummy": {
+                "invite": 13742
+            }
+        },
+        "ngs": {}
+    },
+    "e4dc95f2138640339a65da203a6c3558": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 18
+            },
+            "Dummy": {
+                "invite": 4072
+            }
+        },
+        "ngs": {}
+    },
+    "5405c2e1708145ffa06a04a0ec1a81ea": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 18
+            },
+            "Dummy": {
+                "invite": 14641
+            }
+        },
+        "ngs": {}
+    },
+    "5de6c2f44ce8491297d5e9d3095708a6": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 18
+            },
+            "Dummy": {
+                "invite": 14255
+            }
+        },
+        "ngs": {}
+    },
+    "35854e4ce8c94ccc8f751ceee550eae4": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 18
+            },
+            "Dummy": {
+                "invite": 15245
+            }
+        },
+        "ngs": {}
+    },
+    "fcfb935665c14304b860a25e7a0850dc": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 17
+            },
+            "Dummy": {
+                "invite": 6030
+            }
+        },
+        "ngs": {}
+    },
+    "67e1621de5ff4cf1852b8d3145d97ebb": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 17
+            },
+            "Dummy": {
+                "invite": 10585
+            }
+        },
+        "ngs": {}
+    },
+    "cad8faf5a114486281a34beb7ca30451": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 17
+            },
+            "Dummy": {
+                "invite": 11524
+            }
+        },
+        "ngs": {}
+    },
+    "d5a8c6b913d141e4b865179e3d8982d2": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 17
+            },
+            "Dummy": {
+                "invite": 14789
+            }
+        },
+        "ngs": {}
+    },
+    "92169ffb16f64d12b31237868ffc26cf": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 17
+            },
+            "Dummy": {
+                "invite": 14135
+            }
+        },
+        "ngs": {}
+    },
+    "3b6861b5bfa4414e80f444642474914f": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 17
+            },
+            "Dummy": {
+                "invite": 9577
+            }
+        },
+        "ngs": {}
+    },
+    "fc2692b624974111936aa934de8dc3a2": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 34
+            },
+            "Dummy": {
+                "invite": 29
+            }
+        },
+        "ngs": {}
+    },
+    "76c1530267e040f3ac455787111ae329": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 17
+            },
+            "Dummy": {
+                "invite": 16915
+            }
+        },
+        "ngs": {}
+    },
+    "4aad489f033f4a01819328c0c16e92bb": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 17
+            },
+            "Dummy": {
+                "invite": 15425
+            }
+        },
+        "ngs": {}
+    },
+    "1b2931b2866f4776bd539d29f0a17074": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 17
+            },
+            "Dummy": {
+                "invite": 16140
+            }
+        },
+        "ngs": {}
+    },
+    "b7bbb3c302834faf86e48a4b8ea45920": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 17
+            },
+            "Dummy": {
+                "invite": 14972
+            }
+        },
+        "ngs": {}
+    },
+    "370dffe95d5c4b07a58eea370de3c0c8": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 17
+            },
+            "Dummy": {
+                "invite": 14757
+            }
+        },
+        "ngs": {}
+    },
+    "35cabf231a464e9a8a0d7686ebe16fdd": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 17
+            },
+            "Dummy": {
+                "invite": 16110
+            }
+        },
+        "ngs": {}
+    },
+    "21ef30e79e3e4dcbb17063fe87825774": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 17
+            },
+            "Dummy": {
+                "invite": 15722
+            }
+        },
+        "ngs": {}
+    },
+    "0bf52add03d84787878ec50ef4bffa10": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 17
+            },
+            "Dummy": {
+                "invite": 5174
+            }
+        },
+        "ngs": {}
+    },
+    "8bd6435ec1ea42c6a039f4ee2e12ddc1": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 17
+            },
+            "Dummy": {
+                "invite": 8326
+            }
+        },
+        "ngs": {}
+    },
+    "bbe355dff8644de19b9c34af5da64745": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 17
+            },
+            "Dummy": {
+                "invite": 14903
+            }
+        },
+        "ngs": {}
+    },
+    "a4f7b6bae5ca48aeb5085b7e019cb1f8": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 17
+            },
+            "Dummy": {
+                "invite": 14828
+            }
+        },
+        "ngs": {}
+    },
+    "eb6e9e2585344140b1171e227b70516c": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 17
+            },
+            "Dummy": {
+                "invite": 8652
+            }
+        },
+        "ngs": {}
+    },
+    "5d1f4c824a844fa192092f725ed26e8b": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 17
+            },
+            "Dummy": {
+                "invite": 16993
+            }
+        },
+        "ngs": {}
+    },
+    "fc0618d16d56423db147c6d0bc358c67": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 17
+            },
+            "Dummy": {
+                "invite": 557
+            }
+        },
+        "ngs": {}
+    },
+    "da9da94d1e9e45daac550e0f75f3801a": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 17
+            },
+            "Dummy": {
+                "invite": 12614
+            }
+        },
+        "ngs": {}
+    },
+    "4f3311543ad04e07be54b97f53070474": {
+        "commands": {
+            "Dummy": {
+                "invite": 8669
+            },
+            "929815875576537128": {
+                "friend_count": 15
+            }
+        },
+        "ngs": {}
+    },
+    "5aa606e914cc4185a3db2da1edbc9d5e": {
+        "commands": {
+            "Dummy": {
+                "invite": 13266
+            },
+            "929815875576537128": {
+                "friend_count": 15
+            }
+        },
+        "ngs": {}
+    },
+    "0f1f7c5e271e4aa99b0f1fab0384292a": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 17
+            },
+            "Dummy": {
+                "invite": 14449
+            }
+        },
+        "ngs": {}
+    },
+    "37c6c84d9a07436ea753a1ff9dc7dea3": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 30
+            },
+            "Dummy": {
+                "invite": 47
+            }
+        },
+        "ngs": {}
+    },
+    "68cf4dc70a2d4985a8ca6d70f9fa4ffd": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 15
+            },
+            "Dummy": {
+                "invite": 13531
+            }
+        },
+        "ngs": {}
+    },
+    "a14ca98f36e54570bb341563c19d2357": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 15
+            },
+            "Dummy": {
+                "invite": 14096
+            }
+        },
+        "ngs": {}
+    },
+    "a136317aa9c64f068742287553f41c35": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 15
+            },
+            "Dummy": {
+                "invite": 12694
+            }
+        },
+        "ngs": {}
+    },
+    "0b364b0efa294421ba02ff8e7fa2da05": {
+        "commands": {
+            "Dummy": {
+                "invite": 393
+            }
+        },
+        "ngs": {}
+    },
+    "95f4fb46246a4851ba71cfd2039666a3": {
+        "commands": {
+            "Dummy": {
+                "invite": 406
+            },
+            "289b2f1cfab04a81bb2f52f3d34c62c7": {
+                "set": 1,
+                "emote": 1
+            },
+            "23c0cfc228504cb19af1ae8986daaff2": {
+                "emote": 3
+            },
+            "841cb87b3ccb4b1cb02b23be3a06dfca": {
+                "emote": 2
+            }
+        },
+        "ngs": {}
+    },
+    "52fd0a3cd76343f6914b3e455e498073": {
+        "commands": {
+            "Dummy": {
+                "invite": 365
+            }
+        },
+        "ngs": {}
+    },
+    "9a0a646506f8470d9d55f4def0d4b163": {
+        "commands": {
+            "Dummy": {
+                "invite": 1
+            }
+        },
+        "ngs": {}
+    },
+    "b7a4a8e67034464da3dddd025e9106c6": {
+        "commands": {
+            "Dummy": {
+                "invite": 330
+            }
+        },
+        "ngs": {}
+    },
+    "4277bba3bf774248acab615676bc94a0": {
+        "commands": {
+            "Dummy": {
+                "invite": 399
+            },
+            "103e8454c01e4b3597b5081256470615": {
+                "item": 5
+            }
+        },
+        "ngs": {}
+    },
+    "d05d084871f14a6baf270a292b90b486": {
+        "commands": {
+            "Dummy": {
+                "invite": 412
+            }
+        },
+        "ngs": {}
+    },
+    "d40d51c3660043189eb964579e6423a1": {
+        "commands": {
+            "Dummy": {
+                "invite": 445
+            }
+        },
+        "ngs": {}
+    },
+    "7d546e5493b8487693e89662733d95fd": {
+        "commands": {
+            "Dummy": {
+                "invite": 383
+            }
+        },
+        "ngs": {}
+    },
+    "60f3ae22aace410ca3b0bf48fcbb3914": {
+        "commands": {
+            "Dummy": {
+                "invite": 338
+            }
+        },
+        "ngs": {}
+    },
+    "ac65ff24c50148cf8b5abc25e55d602b": {
+        "commands": {
+            "Dummy": {
+                "invite": 398
+            },
+            "103e8454c01e4b3597b5081256470615": {
+                "item": 5
+            }
+        },
+        "ngs": {}
+    },
+    "bca1e34d4cd5412c87cc27517aa5fd0a": {
+        "commands": {
+            "Dummy": {
+                "invite": 464
+            }
+        },
+        "ngs": {}
+    },
+    "8a3be807789b48a690151972ebacb8c1": {
+        "commands": {
+            "Dummy": {
+                "invite": 430
+            }
+        },
+        "ngs": {}
+    },
+    "6d492a0909b4474fa5ef28a3282d51a0": {
+        "commands": {
+            "Dummy": {
+                "invite": 398
+            }
+        },
+        "ngs": {}
+    },
+    "c71f1ff8b3ee40f0baab9c24b33e8f0e": {
+        "commands": {
+            "Dummy": {
+                "invite": 364
+            }
+        },
+        "ngs": {}
+    },
+    "a7011d0f9bd4431e9650e49e20dabee4": {
+        "commands": {
+            "Dummy": {
+                "invite": 385
+            },
+            "0a92993bff954c7a9635a4a1dcefa3c9": {
+                "help": 2
+            },
+            "93da93739db842dc9730d5ddb8bc3aa9": {
+                "help": 1
+            }
+        },
+        "ngs": {}
+    },
+    "29a2f7149fed46e39af4e7c100d32ef8": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 2
+            },
+            "Dummy": {
+                "invite": 1
+            }
+        },
+        "ngs": {}
+    },
+    "3ae010ad6c6047ff80ca28ac364d9296": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 2
+            },
+            "Dummy": {
+                "invite": 1
+            }
+        },
+        "ngs": {}
+    },
+    "6563d4f121e24816a216ffe3269e55ce": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 2
+            },
+            "Dummy": {
+                "invite": 3
+            }
+        },
+        "ngs": {}
+    },
+    "deccc3f1baa24141b9ed90f6576a1ad3": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 2
+            },
+            "Dummy": {
+                "invite": 1
+            }
+        },
+        "ngs": {}
+    },
+    "c8ff8185e05b4a2cbbab26bc5a43beea": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 2
+            },
+            "Dummy": {
+                "invite": 1
+            }
+        },
+        "ngs": {}
+    },
+    "c616db80e2eb4952af59fca29dc6d3a9": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 2
+            },
+            "Dummy": {
+                "invite": 2
+            }
+        },
+        "ngs": {}
+    },
+    "64953c04c1b14dffb85e9b0d9dc2f166": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 2
+            },
+            "Dummy": {
+                "invite": 2
+            }
+        },
+        "ngs": {}
+    },
+    "ccd55c3a259e4897ab70924b411157d4": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 2
+            },
+            "Dummy": {
+                "invite": 18
+            }
+        },
+        "ngs": {}
+    },
+    "17149eb0ae6041fc8672d36e6489f8d2": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 2
+            },
+            "Dummy": {
+                "invite": 9
+            }
+        },
+        "ngs": {}
+    },
+    "735e8c68628c4e2e9b6f407dc1e352d1": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 2
+            },
+            "Dummy": {
+                "invite": 1
+            }
+        },
+        "ngs": {}
+    },
+    "8891950173d14e8da999f2acaa49b1f9": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 4
+            }
+        },
+        "ngs": {}
+    },
+    "e308f08f6a8e48288e24272eb56b8125": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 2
+            },
+            "Dummy": {
+                "invite": 8
+            }
+        },
+        "ngs": {}
+    },
+    "ebc29846d9ef4c8eac0675bd9861bdda": {
+        "commands": {
+            "Dummy": {
+                "invite": 27
+            }
+        },
+        "ngs": {}
+    },
+    "f8642cb138674ebcb5d0d77f943cc8b9": {
+        "commands": {
+            "Dummy": {
+                "invite": 1
+            }
+        },
+        "ngs": {}
+    },
+    "1a4e12ec56d542fb979889182343147c": {
+        "commands": {
+            "Dummy": {
+                "invite": 8
+            }
+        },
+        "ngs": {}
+    },
+    "8a0ea42a22e84b0c9baa37a3c14c87b9": {
+        "commands": {
+            "Dummy": {
+                "invite": 14
+            }
+        },
+        "ngs": {}
+    },
+    "d807614ce8a94be98404dfd4e6f4d710": {
+        "commands": {
+            "Dummy": {
+                "invite": 19
+            }
+        },
+        "ngs": {}
+    },
+    "64152de2ac944517a9d83dcf1bf97cf1": {
+        "commands": {
+            "Dummy": {
+                "invite": 1
+            }
+        },
+        "ngs": {}
+    },
+    "3d3c52b56f4d434bb24320eaf2b8025a": {
+        "commands": {
+            "Dummy": {
+                "invite": 1
+            }
+        },
+        "ngs": {}
+    },
+    "c41a10e1766648f2a84eb6e982a94545": {
+        "commands": {
+            "Dummy": {
+                "invite": 1
+            }
+        },
+        "ngs": {}
+    },
+    "3c52702959524d74b653faf832ced560": {
+        "commands": {
+            "Dummy": {
+                "invite": 1
+            }
+        },
+        "ngs": {}
+    },
+    "3ad350165c4145bc8b2eff30f4c904d2": {
+        "commands": {
+            "Dummy": {
+                "invite": 1
+            }
+        },
+        "ngs": {}
+    },
+    "d1364ecae0be4a2eb5f22bf8d4ce8faa": {
+        "commands": {
+            "Dummy": {
+                "invite": 1
+            }
+        },
+        "ngs": {}
+    },
+    "68d822030e9b4510a003de356884b675": {
+        "commands": {
+            "Dummy": {
+                "invite": 1
+            }
+        },
+        "ngs": {}
+    },
+    "9b965e88bcf14001ad38fd1b423b678b": {
+        "commands": {
+            "Dummy": {
+                "invite": 1
+            }
+        },
+        "ngs": {}
+    },
+    "043e0d9ef75244da9ef7c79a2c321420": {
+        "commands": {
+            "Dummy": {
+                "invite": 15
+            }
+        },
+        "ngs": {}
+    },
+    "b1806c6b6f24483ebd6daf4d670a5d5a": {
+        "commands": {
+            "Dummy": {
+                "invite": 1
+            }
+        },
+        "ngs": {}
+    },
+    "01f7c54e59c440fe924a5e135c212ae8": {
+        "commands": {
+            "Dummy": {
+                "invite": 1
+            }
+        },
+        "ngs": {}
+    },
+    "89148d91f66a4bbba75efa7d81fa789c": {
+        "commands": {
+            "Dummy": {
+                "invite": 11
+            }
+        },
+        "ngs": {}
+    },
+    "e7c41cd33478462f912da5382119c176": {
+        "commands": {
+            "Dummy": {
+                "invite": 3
+            }
+        },
+        "ngs": {}
+    },
+    "7f63ba1d2cfc476a9878c8be74392e55": {
+        "commands": {
+            "Dummy": {
+                "invite": 2
+            }
+        },
+        "ngs": {}
+    },
+    "5897f26b17a3421fb877566c65310ca8": {
+        "commands": {
+            "Dummy": {
+                "invite": 1
+            }
+        },
+        "ngs": {}
+    },
+    "eb6049903f9c49a4a16e5a6276855c90": {
+        "commands": {
+            "Dummy": {
+                "invite": 12
+            }
+        },
+        "ngs": {}
+    },
+    "95f1a41d4da64d75aa0aefac30d869ca": {
+        "commands": {
+            "Dummy": {
+                "invite": 14
+            }
+        },
+        "ngs": {}
+    },
+    "7861625d2779453bb6211f96d4e93c62": {
+        "commands": {
+            "Dummy": {
+                "invite": 1
+            }
+        },
+        "ngs": {}
+    },
+    "f5455e0a2fa841aeb715e523a048beca": {
+        "commands": {
+            "Dummy": {
+                "invite": 1
+            }
+        },
+        "ngs": {}
+    },
+    "483771f8025c49b895639dbd2daf88d7": {
+        "commands": {
+            "Dummy": {
+                "invite": 1
+            }
+        },
+        "ngs": {}
+    },
+    "450caca66809401e84a6bbf4e7a968e9": {
+        "commands": {
+            "Dummy": {
+                "invite": 1
+            }
+        },
+        "ngs": {}
+    },
+    "2edd901baada4d12a083bb143d62fdab": {
+        "commands": {
+            "Dummy": {
+                "invite": 1
+            }
+        },
+        "ngs": {}
+    },
+    "c20ae1c700ae40cab20eabb111cd5a26": {
+        "commands": {
+            "Dummy": {
+                "invite": 1
+            }
+        },
+        "ngs": {}
+    },
+    "085c79229f9a47ac8a1005bc4c68fc20": {
+        "commands": {
+            "Dummy": {
+                "invite": 1
+            }
+        },
+        "ngs": {}
+    },
+    "1790f13266d347c98885c9a76845561c": {
+        "commands": {
+            "Dummy": {
+                "invite": 2
+            }
+        },
+        "ngs": {}
+    },
+    "65522954068d48a38bbd5e00c83c50ac": {
+        "commands": {
+            "Dummy": {
+                "invite": 1
+            }
+        },
+        "ngs": {}
+    },
+    "eb0915778be8486c9898366f7ce5a7e8": {
+        "commands": {
+            "Dummy": {
+                "invite": 1
+            }
+        },
+        "ngs": {}
+    },
+    "09f6ce6b3733452f98c3da0f1397e0a4": {
+        "commands": {
+            "Dummy": {
+                "invite": 1
+            }
+        },
+        "ngs": {}
+    },
+    "a3a6924f411a4ce49ea3b974c24b8b08": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 14,
+                "leave": 1
+            },
+            "Dummy": {
+                "invite": 34178
+            },
+            "a5597b0e4c934750ad115684754bd646": {
+                "help": 1
+            },
+            "925a226b34764feb8cc30441e4ea02f8": {
+                "help": 3
+            },
+            "1b02140195924773a933803fded9c410": {
+                "emote": 2
+            },
+            "ffc0772dd0aa45648ff9c0edfe3af42c": {
+                "emote": 1
+            },
+            "5d8bdd5132844d8db0d33d83d908b676": {
+                "help": 1
+            },
+            "7c26d375396743939dc164d4d440eb8c": {
+                "emote": 1,
+                "outfit": 1
+            },
+            "b055d46a705a42c4aef1168f9de1e86b": {
+                "emote": 2
+            },
+            "53423335b2cb4719b42fc7db302e127a": {
+                "set": 2
+            },
+            "4bfd608f756441b69fc7ef672731a3dd": {
+                "help": 2,
+                "outfit": 2
+            },
+            "9f6a5caf13b2400c97e72c28bf3a5d12": {
+                "emote": 7
+            },
+            "0e75a2bd1ccb404f9a917b62518c4f46": {
+                "help": 1
+            },
+            "fce1a4ad615f431b86a35dc6bf472454": {
+                "emote": 1
+            },
+            "4d3955e9524b4fc1bdc6c8bc89a3d674": {
+                "emote": 4,
+                "item": 153,
+                "outfit": 1
+            },
+            "6a6736e3f4224947a9fe25e2fc6ad18d": {
+                "emote": 2
+            },
+            "a9a17b12f5c54625b777e06c2d7184ed": {
+                "pickaxe": 1,
+                "emote": 1
+            },
+            "7bb51bf5b8af43e6b570ed42a066f519": {
+                "emote": 1
+            },
+            "f55a4ea4760140a6a0f290e911407437": {
+                "emote": 3,
+                "set": 4
+            },
+            "679c8aea6c454332b486ca0c8a1add41": {
+                "emote": 5,
+                "item": 78
+            },
+            "4d37a668de684cc693f9e23a512f59c8": {
+                "item": 58
+            },
+            "f3bb643e17d7460996718ba8a10e5488": {
+                "emote": 3
+            },
+            "a228cf6f77504806897e86adbc272ad4": {
+                "item": 55,
+                "emote": 1
+            },
+            "07ebf81799bd45a9932c94b474102051": {
+                "set": 1
+            },
+            "214f09daa0cb434a998bd5ec45f0f4d7": {
+                "emote": 1,
+                "item": 10
+            },
+            "ba38539ee3b146aebbdbe60bb6e652ae": {
+                "item": 9,
+                "emote": 1
+            }
+        },
+        "ngs": {}
+    },
+    "05e0f5a5fa5d4f8a8f5e74e1d15d68cf": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 14,
+                "leave": 1
+            },
+            "Dummy": {
+                "invite": 13416
+            }
+        },
+        "ngs": {}
+    },
+    "fa776ee68fb244098f32744cd12f722b": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 14,
+                "leave": 1
+            },
+            "Dummy": {
+                "invite": 75471
+            }
+        },
+        "ngs": {}
+    },
+    "77b4fc0c19ef45bca3ca7501e88ad4c2": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 14,
+                "leave": 1
+            },
+            "Dummy": {
+                "invite": 59523
+            }
+        },
+        "ngs": {}
+    },
+    "7e17fce70d7843b98f4dfd022f9e88e1": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 14,
+                "leave": 1
+            },
+            "Dummy": {
+                "invite": 71860
+            }
+        },
+        "ngs": {}
+    },
+    "6918d7b8c75e4d7eb8d191532c06e4ab": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 14,
+                "leave": 1
+            },
+            "Dummy": {
+                "invite": 73106
+            }
+        },
+        "ngs": {}
+    },
+    "25082a5073e2474b940764181dd45b2c": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 14,
+                "leave": 1
+            },
+            "Dummy": {
+                "invite": 49567
+            }
+        },
+        "ngs": {}
+    },
+    "3dd8197d69fa47d6a8b8ca769ded7a31": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 14,
+                "leave": 1
+            },
+            "Dummy": {
+                "invite": 95833
+            }
+        },
+        "ngs": {}
+    },
+    "f29d8044451d41deb3e42fc72e39dd55": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 14,
+                "leave": 1
+            },
+            "Dummy": {
+                "invite": 52051
+            }
+        },
+        "ngs": {}
+    },
+    "835fb38252bc4bdc9ec5da22f00efd90": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 14,
+                "leave": 1
+            },
+            "Dummy": {
+                "invite": 78987
+            }
+        },
+        "ngs": {}
+    },
+    "37ae14957cb54d6da49c9669653c4b93": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 14,
+                "leave": 1
+            },
+            "Dummy": {
+                "invite": 96872
+            }
+        },
+        "ngs": {}
+    },
+    "03db74fc0d394c0f86ee728e83f9c456": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 14,
+                "leave": 1
+            },
+            "Dummy": {
+                "invite": 58260
+            }
+        },
+        "ngs": {}
+    },
+    "fd520d4a64be4d0db50e8fc6bae4be64": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 14,
+                "leave": 1
+            },
+            "Dummy": {
+                "invite": 23168
+            }
+        },
+        "ngs": {}
+    },
+    "9ab9f724053c4747931d3b8bd2fda682": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 14,
+                "leave": 1
+            },
+            "Dummy": {
+                "invite": 104172
+            }
+        },
+        "ngs": {}
+    },
+    "f124f03da87b41dc83298d5ed0fdb491": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 14,
+                "leave": 1
+            },
+            "Dummy": {
+                "invite": 90093
+            }
+        },
+        "ngs": {}
+    },
+    "65a09ece76d44e56981d3efe358fdb2b": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 14,
+                "leave": 1
+            },
+            "Dummy": {
+                "invite": 42155
+            }
+        },
+        "ngs": {}
+    },
+    "df5796bb0bf7475cb92701cd7dfe5d00": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 14,
+                "leave": 1
+            },
+            "Dummy": {
+                "invite": 65352
+            }
+        },
+        "ngs": {}
+    },
+    "313d36fae0ef48be8cefae188311aa6a": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 14,
+                "leave": 1
+            },
+            "Dummy": {
+                "invite": 65070
+            }
+        },
+        "ngs": {}
+    },
+    "c980310ff4724c4ab91f8968f4477844": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 14,
+                "leave": 1
+            },
+            "Dummy": {
+                "invite": 41532
+            }
+        },
+        "ngs": {}
+    },
+    "405bda1bd2fe440db00311f2b5e81214": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 14,
+                "leave": 1
+            },
+            "Dummy": {
+                "invite": 82038
+            }
+        },
+        "ngs": {}
+    },
+    "d857cd73ff534c81b3363c7727e3e87f": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 14,
+                "leave": 1
+            },
+            "Dummy": {
+                "invite": 68319
+            }
+        },
+        "ngs": {}
+    },
+    "e374e0ed9afc468ba086da193897abf7": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 14,
+                "leave": 1
+            },
+            "Dummy": {
+                "invite": 79454
+            }
+        },
+        "ngs": {}
+    },
+    "a9b7add4491e4a10a10ff4d523770635": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 14,
+                "leave": 1
+            },
+            "Dummy": {
+                "invite": 61287
+            }
+        },
+        "ngs": {}
+    },
+    "e9860d8b4471458fa9b6374e8eae3059": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 14,
+                "leave": 1
+            },
+            "Dummy": {
+                "invite": 96492
+            }
+        },
+        "ngs": {}
+    },
+    "0ee3274b9ed241e685a8408060114bf3": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 14,
+                "leave": 1
+            },
+            "Dummy": {
+                "invite": 46302
+            }
+        },
+        "ngs": {}
+    },
+    "83096289ec0b44309589a97daeaccf0d": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 14,
+                "leave": 1
+            },
+            "Dummy": {
+                "invite": 60132
+            }
+        },
+        "ngs": {}
+    },
+    "205d62d7213f47248b978e5e159b1020": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 14,
+                "leave": 1
+            },
+            "Dummy": {
+                "invite": 77967
+            }
+        },
+        "ngs": {}
+    },
+    "a19bf7478dfd4741a6e42cb07591d552": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 14,
+                "leave": 1
+            },
+            "Dummy": {
+                "invite": 71686
+            }
+        },
+        "ngs": {}
+    },
+    "21fe34cad19942f39b749efc2278d7ef": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 14,
+                "leave": 1
+            },
+            "Dummy": {
+                "invite": 84433
+            }
+        },
+        "ngs": {}
+    },
+    "d0d923f8a6e547b3875173b9685f88c1": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 14,
+                "leave": 1
+            },
+            "Dummy": {
+                "invite": 15552
+            }
+        },
+        "ngs": {}
+    },
+    "0c18d621fb294e2c9049ed1e098fccd2": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 13,
+                "leave": 1
+            },
+            "Dummy": {
+                "invite": 46192
+            }
+        },
+        "ngs": {}
+    },
+    "200010f6040947ebb9c1862ea7b39f17": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 13,
+                "leave": 1
+            },
+            "Dummy": {
+                "invite": 49062
+            }
+        },
+        "ngs": {}
+    },
+    "8f97ce302aeb493e89e3227ce1ef151a": {
+        "commands": {
+            "Dummy": {
+                "invite": 28056
+            }
+        },
+        "ngs": {}
+    },
+    "a0212fbb718e4e498f599025e5615c12": {
+        "commands": {
+            "Dummy": {
+                "invite": 48598
+            }
+        },
+        "ngs": {}
+    },
+    "3127ce7e64ad4a9eaef0a0cc9f08925f": {
+        "commands": {
+            "Dummy": {
+                "invite": 126
+            }
+        },
+        "ngs": {}
+    },
+    "9361acb9c89d4df49df6bb0b242e7783": {
+        "commands": {
+            "Dummy": {
+                "invite": 46
+            }
+        },
+        "ngs": {}
+    },
+    "f0b8f43a62ca407da7762da8c75a638c": {
+        "commands": {
+            "Dummy": {
+                "invite": 11
+            }
+        },
+        "ngs": {}
+    },
+    "6d85dd875a854bdfa3b8fb0dfedc19d0": {
+        "commands": {
+            "Dummy": {
+                "invite": 24
+            }
+        },
+        "ngs": {}
+    },
+    "6ed6526a73d847e9bda67c8f7a68a3f6": {
+        "commands": {
+            "Dummy": {
+                "invite": 88
+            }
+        },
+        "ngs": {}
+    },
+    "1032bcfd5ef14bf6ba71a3b717441eca": {
+        "commands": {
+            "Dummy": {
+                "invite": 36
+            }
+        },
+        "ngs": {}
+    },
+    "b92c1924dcbe4e849d6f64549f3d0345": {
+        "commands": {
+            "Dummy": {
+                "invite": 16
+            }
+        },
+        "ngs": {}
+    },
+    "f29488c0912d4e66bc087655bfbd3a54": {
+        "commands": {
+            "Dummy": {
+                "invite": 27
+            }
+        },
+        "ngs": {}
+    },
+    "4b1ca0fd77d84de992a842b23aeef1c9": {
+        "commands": {
+            "Dummy": {
+                "invite": 27
+            }
+        },
+        "ngs": {}
+    },
+    "b90463becfb94d8a857a6beb0b6e4c97": {
+        "commands": {
+            "Dummy": {
+                "invite": 98
+            }
+        },
+        "ngs": {}
+    },
+    "3fdcbe7f92564f719750a20ee6963e68": {
+        "commands": {
+            "Dummy": {
+                "invite": 17
+            }
+        },
+        "ngs": {}
+    },
+    "90c4623cdeac4c029c63b65dca8ac18f": {
+        "commands": {
+            "Dummy": {
+                "invite": 18
+            }
+        },
+        "ngs": {}
+    },
+    "763d3b370aac4612a6a72e7b2de618c4": {
+        "commands": {
+            "Dummy": {
+                "invite": 71
+            }
+        },
+        "ngs": {}
+    },
+    "af9a5492f50243f298346915608d7871": {
+        "commands": {
+            "Dummy": {
+                "invite": 27
+            }
+        },
+        "ngs": {}
+    },
+    "7532cbd05b78456c80a700638dea0efe": {
+        "commands": {
+            "Dummy": {
+                "invite": 57
+            }
+        },
+        "ngs": {}
+    },
+    "a9d93d8b0d2a46008278f0cc84108f78": {
+        "commands": {
+            "Dummy": {
+                "invite": 11
+            }
+        },
+        "ngs": {}
+    },
+    "a216df329324404ab74132a98eed78d7": {
+        "commands": {
+            "Dummy": {
+                "invite": 67
+            }
+        },
+        "ngs": {}
+    },
+    "38d21a99e77c486c80118ba5bd65725b": {
+        "commands": {
+            "Dummy": {
+                "invite": 38
+            }
+        },
+        "ngs": {}
+    },
+    "eaa5e8c071024a109998dd19a695e32b": {
+        "commands": {
+            "Dummy": {
+                "invite": 31
+            }
+        },
+        "ngs": {}
+    },
+    "8351cc7e73d345678f89df73e58868c4": {
+        "commands": {
+            "Dummy": {
+                "invite": 79
+            }
+        },
+        "ngs": {}
+    },
+    "8a3edb6544074217a3ea18b9aea4575f": {
+        "commands": {
+            "Dummy": {
+                "invite": 91
+            }
+        },
+        "ngs": {}
+    },
+    "7567750684474ca5aa31af6821806244": {
+        "commands": {
+            "Dummy": {
+                "invite": 24
+            }
+        },
+        "ngs": {}
+    },
+    "564a1743932241669a364f4c9ef31bd9": {
+        "commands": {
+            "Dummy": {
+                "invite": 27
+            }
+        },
+        "ngs": {}
+    },
+    "a05104ae0cc34d6cb989f305f7d1ca38": {
+        "commands": {
+            "Dummy": {
+                "invite": 14
+            }
+        },
+        "ngs": {}
+    },
+    "dcc75e4012684f64a04ac3a1b3f90741": {
+        "commands": {
+            "Dummy": {
+                "invite": 4
+            }
+        },
+        "ngs": {}
+    },
+    "690403d176444933ba4b21807fd1022e": {
+        "commands": {
+            "Dummy": {
+                "invite": 17
+            }
+        },
+        "ngs": {}
+    },
+    "9c76113e368a4e4e8b5d4bb952768cb9": {
+        "commands": {
+            "Dummy": {
+                "invite": 7
+            }
+        },
+        "ngs": {}
+    },
+    "93cdbd4301054843b0dd44fb7874c7f3": {
+        "commands": {
+            "Dummy": {
+                "invite": 8
+            }
+        },
+        "ngs": {}
+    },
+    "7bd0235af0f842438061443dd0411e93": {
+        "commands": {
+            "Dummy": {
+                "invite": 10
+            }
+        },
+        "ngs": {}
+    },
+    "6542f9e11fea43adbb370c06350a041d": {
+        "commands": {
+            "Dummy": {
+                "invite": 49
+            }
+        },
+        "ngs": {}
+    },
+    "5a4f5c54aae048689b7508fcaeaf8812": {
+        "commands": {
+            "Dummy": {
+                "invite": 20
+            }
+        },
+        "ngs": {}
+    },
+    "6977ea2f222245e28dedd3e54996ed14": {
+        "commands": {
+            "Dummy": {
+                "invite": 68
+            }
+        },
+        "ngs": {}
+    },
+    "b4618e24452f44ec8b0089f3d3d1e093": {
+        "commands": {
+            "Dummy": {
+                "invite": 18
+            }
+        },
+        "ngs": {}
+    },
+    "01638c4db2c245fa85186070ac69df20": {
+        "commands": {
+            "Dummy": {
+                "invite": 12
+            }
+        },
+        "ngs": {}
+    },
+    "783d74a655de4d90b496b0ecc35d6f05": {
+        "commands": {
+            "Dummy": {
+                "invite": 8
+            }
+        },
+        "ngs": {}
+    },
+    "c7bf865709f04f10bb452896ed98b1c8": {
+        "commands": {
+            "Dummy": {
+                "invite": 14
+            }
+        },
+        "ngs": {}
+    },
+    "24cc317a187b47d6bb9701d06db748fb": {
+        "commands": {
+            "Dummy": {
+                "invite": 23
+            }
+        },
+        "ngs": {}
+    },
+    "32fcaf8117184bd39ec7054c79f22fb9": {
+        "commands": {
+            "Dummy": {
+                "invite": 38
+            }
+        },
+        "ngs": {}
+    },
+    "fb8174814b6a46db89f1f8675072080c": {
+        "commands": {
+            "Dummy": {
+                "invite": 14
+            }
+        },
+        "ngs": {}
+    },
+    "eb205dd04aca4fa7a1e60efdfc3e3910": {
+        "commands": {
+            "Dummy": {
+                "invite": 14
+            }
+        },
+        "ngs": {}
+    },
+    "6bbf79b52dd54085bbad498118bc3123": {
+        "commands": {
+            "Dummy": {
+                "invite": 15
+            }
+        },
+        "ngs": {}
+    },
+    "d97c10a450e644f49d3efa4d9a6168a5": {
+        "commands": {
+            "Dummy": {
+                "invite": 12
+            }
+        },
+        "ngs": {}
+    },
+    "1436707317d749cd87306978a1744a53": {
+        "commands": {
+            "Dummy": {
+                "invite": 29
+            }
+        },
+        "ngs": {}
+    },
+    "3101a81571be46d19d05e8e44cff3b93": {
+        "commands": {
+            "Dummy": {
+                "invite": 12
+            }
+        },
+        "ngs": {}
+    },
+    "86485d8d326a4c488c69666f62a40c0f": {
+        "commands": {
+            "Dummy": {
+                "invite": 3
+            }
+        },
+        "ngs": {}
+    },
+    "3941415ee9f14f9185ec4f5b2b0461ae": {
+        "commands": {
+            "Dummy": {
+                "message": 204,
+                "remove_friend": 11
+            }
+        },
+        "ngs": {}
+    },
+    "17e9d0e3496841afb66d449d63949818": {
+        "commands": {
+            "Dummy": {
+                "message": 45
+            }
+        },
+        "ngs": {}
+    },
+    "2055215231ed41358ac81ca6534d1647": {
+        "commands": {
+            "Dummy": {
+                "message": 52,
+                "remove_friend": 1
+            }
+        },
+        "ngs": {}
+    },
+    "a161b789ea214b4185936e8c56bb42fd": {
+        "commands": {
+            "Dummy": {
+                "message": 8
+            }
+        },
+        "ngs": {}
+    },
+    "ac0d35f7504c42b3a2cc8c1fbf35afca": {
+        "commands": {
+            "Dummy": {
+                "message": 177,
+                "remove_friend": 9
+            }
+        },
+        "ngs": {}
+    },
+    "0304af4953cd4cf6a61277c00689b607": {
+        "commands": {
+            "Dummy": {
+                "message": 138,
+                "remove_friend": 5
+            }
+        },
+        "ngs": {}
+    },
+    "cb5daeadffc246fcbf7aa27c77965c0a": {
+        "commands": {
+            "Dummy": {
+                "message": 120,
+                "remove_friend": 2
+            }
+        },
+        "ngs": {}
+    },
+    "dfb875847dce41b0885a9f7815aec36c": {
+        "commands": {
+            "Dummy": {
+                "message": 104,
+                "remove_friend": 4
+            }
+        },
+        "ngs": {}
+    },
+    "3fd8e30650be439db557d9235b9ab343": {
+        "commands": {
+            "Dummy": {
+                "message": 104,
+                "remove_friend": 4
+            }
+        },
+        "ngs": {}
+    },
+    "b3c73039d29047e2a27ae530ef4bb98a": {
+        "commands": {
+            "Dummy": {
+                "message": 98,
+                "remove_friend": 3
+            }
+        },
+        "ngs": {}
+    },
+    "0e91964b299b46f995c77b8a5ca3f427": {
+        "commands": {
+            "Dummy": {
+                "message": 21,
+                "remove_friend": 1
+            }
+        },
+        "ngs": {}
+    },
+    "265759e1bcc54d4cb2469a463b59f47f": {
+        "commands": {
+            "Dummy": {
+                "message": 55
+            }
+        },
+        "ngs": {}
+    },
+    "c3945035d4374f3ab1ed4c8035555cb5": {
+        "commands": {
+            "Dummy": {
+                "message": 20
+            }
+        },
+        "ngs": {}
+    },
+    "cfe81dd2f7df4664967a6c2d162e1c33": {
+        "commands": {
+            "Dummy": {
+                "message": 34,
+                "remove_friend": 1
+            }
+        },
+        "ngs": {}
+    },
+    "90eb27a68bc04a8eaa9727d5c4c8d24a": {
+        "commands": {
+            "Dummy": {
+                "message": 11
+            }
+        },
+        "ngs": {}
+    },
+    "94431a05a17e44bf9f60c45ede662df2": {
+        "commands": {
+            "Dummy": {
+                "message": 15,
+                "remove_friend": 2
+            }
+        },
+        "ngs": {}
+    },
+    "567a3fce96cb4b65bc26ca4e381a5772": {
+        "commands": {
+            "Dummy": {
+                "message": 43,
+                "remove_friend": 2
+            }
+        },
+        "ngs": {}
+    },
+    "00e8dae5b55046888fc45f42347a14ab": {
+        "commands": {
+            "Dummy": {
+                "message": 43,
+                "remove_friend": 2
+            }
+        },
+        "ngs": {}
+    },
+    "9d9a5cd3133140aeb7ef2842d0376237": {
+        "commands": {
+            "Dummy": {
+                "message": 30,
+                "remove_friend": 3
+            }
+        },
+        "ngs": {}
+    },
+    "671c68fe2b994fed865c9b29f2a89d09": {
+        "commands": {
+            "Dummy": {
+                "message": 22,
+                "remove_friend": 1
+            }
+        },
+        "ngs": {}
+    },
+    "debd6956062243da93e8da27dd3e44cb": {
+        "commands": {
+            "Dummy": {
+                "message": 6
+            }
+        },
+        "ngs": {}
+    },
+    "1702134deb844d19a33daa07b3f241d0": {
+        "commands": {
+            "Dummy": {
+                "message": 9
+            }
+        },
+        "ngs": {}
+    },
+    "5b7aee30031b4d9b91f1adaf8fe4ab65": {
+        "commands": {
+            "Dummy": {
+                "message": 8
+            }
+        },
+        "ngs": {}
+    },
+    "513cc58e8410420280a29799922b1952": {
+        "commands": {
+            "Dummy": {
+                "message": 11
+            }
+        },
+        "ngs": {}
+    },
+    "c51a6c0a0fb0466b99ec608f4d40b37e": {
+        "commands": {
+            "Dummy": {
+                "message": 7,
+                "remove_friend": 1
+            }
+        },
+        "ngs": {}
+    },
+    "5887afc91a6b4a86812158fef586724c": {
+        "commands": {
+            "Dummy": {
+                "message": 7
+            }
+        },
+        "ngs": {}
+    },
+    "9f8380a2eefe4d3eabf85163590f021a": {
+        "commands": {
+            "Dummy": {
+                "message": 3
+            }
+        },
+        "ngs": {}
+    },
+    "ad968d10932a47c3a88d663be77f9131": {
+        "commands": {
+            "Dummy": {
+                "message": 6
+            }
+        },
+        "ngs": {}
+    },
+    "e83937026ca149968346d35657d5ee2d": {
+        "commands": {
+            "Dummy": {
+                "message": 80,
+                "remove_friend": 6
+            }
+        },
+        "ngs": {}
+    },
+    "1fcf85f49a5d4dd3a9a33e923f405490": {
+        "commands": {
+            "Dummy": {
+                "message": 64,
+                "remove_friend": 4
+            }
+        },
+        "ngs": {}
+    },
+    "265612ab49df4a39ae1851738441923f": {
+        "commands": {
+            "Dummy": {
+                "message": 37,
+                "remove_friend": 10
+            }
+        },
+        "ngs": {}
+    },
+    "a36be19430da497c963d7ee0ed8b29a4": {
+        "commands": {
+            "Dummy": {
+                "message": 11,
+                "remove_friend": 2
+            }
+        },
+        "ngs": {}
+    },
+    "ea5274d68c2f4bfcb073b1e66899f7ce": {
+        "commands": {
+            "Dummy": {
+                "message": 109,
+                "remove_friend": 11
+            }
+        },
+        "ngs": {}
+    },
+    "d8a6d9e145604cbd947fd407e89be310": {
+        "commands": {
+            "Dummy": {
+                "message": 43,
+                "remove_friend": 3
+            }
+        },
+        "ngs": {}
+    },
+    "84a6f6d6786349b8988b67bba24ecb38": {
+        "commands": {
+            "Dummy": {
+                "message": 50,
+                "remove_friend": 3
+            }
+        },
+        "ngs": {}
+    },
+    "e1302cca911c451e8f0c5c84928ef8e3": {
+        "commands": {
+            "Dummy": {
+                "message": 33,
+                "remove_friend": 5
+            }
+        },
+        "ngs": {}
+    },
+    "8ed1076387d347978b3a7c36a002dc0f": {
+        "commands": {
+            "Dummy": {
+                "message": 27,
+                "remove_friend": 2
+            }
+        },
+        "ngs": {}
+    },
+    "098fcd6a6c7a42fc94d38fe9ceeabd50": {
+        "commands": {
+            "Dummy": {
+                "message": 63,
+                "remove_friend": 7
+            }
+        },
+        "ngs": {}
+    },
+    "9d3dabfb4e5f4f6d9275b953384cb937": {
+        "commands": {
+            "Dummy": {
+                "message": 22,
+                "remove_friend": 3
+            }
+        },
+        "ngs": {}
+    },
+    "9ee4ec8549c643bfa6b570d57cf54146": {
+        "commands": {
+            "Dummy": {
+                "message": 34,
+                "remove_friend": 4
+            }
+        },
+        "ngs": {}
+    },
+    "d93783333afe4ab196afbcad602b274e": {
+        "commands": {
+            "Dummy": {
+                "message": 41,
+                "remove_friend": 5
+            }
+        },
+        "ngs": {}
+    },
+    "49e14cce3de14090bd2fc1e0d43a31a5": {
+        "commands": {
+            "Dummy": {
+                "message": 11,
+                "remove_friend": 2
+            }
+        },
+        "ngs": {}
+    },
+    "9b12a50c89754af0856ea8fda7d6713a": {
+        "commands": {
+            "Dummy": {
+                "message": 47,
+                "remove_friend": 5
+            }
+        },
+        "ngs": {}
+    },
+    "05a6d37b43484ea1ac2c25d1d6bc61dd": {
+        "commands": {
+            "Dummy": {
+                "message": 36,
+                "remove_friend": 1
+            }
+        },
+        "ngs": {}
+    },
+    "34dfaa9b07494b0eb2033f1cd4fed9ba": {
+        "commands": {
+            "Dummy": {
+                "message": 23,
+                "remove_friend": 2
+            }
+        },
+        "ngs": {}
+    },
+    "f103de7943a14877914d8175617f807f": {
+        "commands": {
+            "Dummy": {
+                "message": 49,
+                "remove_friend": 1
+            }
+        },
+        "ngs": {}
+    },
+    "769b93b0b70e41f3982294ee3c48ea0a": {
+        "commands": {
+            "Dummy": {
+                "message": 11
+            }
+        },
+        "ngs": {}
+    },
+    "2bdfd9e76e0a4ff0a546ae7c7e0dff7b": {
+        "commands": {
+            "Dummy": {
+                "message": 38,
+                "remove_friend": 4
+            }
+        },
+        "ngs": {}
+    },
+    "d21e978b6529431ea1df578ec6c14e71": {
+        "commands": {
+            "Dummy": {
+                "message": 48,
+                "remove_friend": 2
+            }
+        },
+        "ngs": {}
+    },
+    "07cf6478c28a4e22adf72134724a7ba6": {
+        "commands": {
+            "Dummy": {
+                "message": 37,
+                "remove_friend": 4
+            }
+        },
+        "ngs": {}
+    },
+    "88a5ff70c082452d9d5948a5968dd2ba": {
+        "commands": {
+            "Dummy": {
+                "message": 51,
+                "remove_friend": 1
+            }
+        },
+        "ngs": {}
+    },
+    "a9d069b074e742cdaaf20c78a00675c6": {
+        "commands": {
+            "Dummy": {
+                "message": 18
+            }
+        },
+        "ngs": {}
+    },
+    "b3ea66d6c52a46d097d7ac93577e8ccb": {
+        "commands": {
+            "Dummy": {
+                "message": 26,
+                "remove_friend": 1
+            }
+        },
+        "ngs": {}
+    },
+    "0ab0b516783e42fd98b478ae67c1f713": {
+        "commands": {
+            "Dummy": {
+                "message": 1
+            }
+        },
+        "ngs": {}
+    },
+    "5385b34d2ed843d890dc26a05aafbf91": {
+        "commands": {
+            "Dummy": {
+                "message": 45,
+                "remove_friend": 2
+            }
+        },
+        "ngs": {}
+    },
+    "5b52a42cc94a46be8fbc2d59666bccee": {
+        "commands": {
+            "Dummy": {
+                "message": 7
+            }
+        },
+        "ngs": {}
+    },
+    "d2a81b9c05ba4a3f887f80ebc6016f0e": {
+        "commands": {
+            "Dummy": {
+                "message": 42,
+                "remove_friend": 2
+            }
+        },
+        "ngs": {}
+    },
+    "b708521882804b5fb1b1da560668985e": {
+        "commands": {
+            "Dummy": {
+                "message": 40,
+                "remove_friend": 1
+            }
+        },
+        "ngs": {}
+    },
+    "d505ab75a30e4100869fe431f10d863a": {
+        "commands": {
+            "Dummy": {
+                "message": 10
+            }
+        },
+        "ngs": {}
+    },
+    "685049aed0a94b88a094322382351434": {
+        "commands": {
+            "Dummy": {
+                "message": 39,
+                "remove_friend": 1
+            }
+        },
+        "ngs": {}
+    },
+    "299140a12e2f49769020bc30c50d46b2": {
+        "commands": {
+            "Dummy": {
+                "message": 33,
+                "remove_friend": 2
+            }
+        },
+        "ngs": {}
+    },
+    "c28c80a31c184087ae29c18455a1eb9d": {
+        "commands": {
+            "Dummy": {
+                "message": 17
+            }
+        },
+        "ngs": {}
+    },
+    "ab9ab5ce8838437e838769cac81222c2": {
+        "commands": {
+            "Dummy": {
+                "message": 28
+            }
+        },
+        "ngs": {}
+    },
+    "ad922381c82a417688b0927f6d5ba69d": {
+        "commands": {
+            "Dummy": {
+                "message": 13
+            }
+        },
+        "ngs": {}
+    },
+    "113abcdce2924b0e83768ce836510035": {
+        "commands": {
+            "Dummy": {
+                "message": 40
+            }
+        },
+        "ngs": {}
+    },
+    "a58547d36e494b89831424e7810a2769": {
+        "commands": {
+            "Dummy": {
+                "message": 65
+            }
+        },
+        "ngs": {}
+    },
+    "8b11afc30fb94feea0560b92946acfea": {
+        "commands": {
+            "Dummy": {
+                "message": 23,
+                "remove_friend": 1
+            }
+        },
+        "ngs": {}
+    },
+    "8fe6919c38f44b70b9a9e01a81a062a4": {
+        "commands": {
+            "Dummy": {
+                "message": 53,
+                "remove_friend": 1
+            }
+        },
+        "ngs": {}
+    },
+    "32826adf8cf546b39b04f87ac61c17eb": {
+        "commands": {
+            "Dummy": {
+                "message": 7,
+                "remove_friend": 1
+            }
+        },
+        "ngs": {}
+    },
+    "20543564ce5149c4adc4a6877acda21e": {
+        "commands": {
+            "Dummy": {
+                "message": 45
+            }
+        },
+        "ngs": {}
+    },
+    "59956822fcf6471d902a985b0e768a43": {
+        "commands": {
+            "Dummy": {
+                "message": 32,
+                "remove_friend": 2
+            }
+        },
+        "ngs": {}
+    },
+    "328ab9cfc9c04ac4b1c77e0cbfe3162c": {
+        "commands": {
+            "Dummy": {
+                "message": 18
+            }
+        },
+        "ngs": {}
+    },
+    "75a90b6118bf46e4987e35bf3d5be18b": {
+        "commands": {
+            "Dummy": {
+                "message": 16
+            }
+        },
+        "ngs": {}
+    },
+    "719534491b784b94bff3cdf249ce07d5": {
+        "commands": {
+            "Dummy": {
+                "message": 27,
+                "remove_friend": 1
+            }
+        },
+        "ngs": {}
+    },
+    "037b14f1f422429d8297f33ecdf7ffd6": {
+        "commands": {
+            "Dummy": {
+                "message": 16
+            }
+        },
+        "ngs": {}
+    },
+    "9a467e890cc84fe7821f72ab82cfb03e": {
+        "commands": {
+            "Dummy": {
+                "message": 8
+            }
+        },
+        "ngs": {}
+    },
+    "9d712484a1dc4fbaaf8fe0d5c4d886d2": {
+        "commands": {
+            "Dummy": {
+                "message": 10
+            }
+        },
+        "ngs": {}
+    },
+    "11c6d21d228b4514b9ee32f22e656dc1": {
+        "commands": {
+            "Dummy": {
+                "message": 65,
+                "remove_friend": 14
+            }
+        },
+        "ngs": {}
+    },
+    "9e39d07365174e7bb41f4099d79f971d": {
+        "commands": {
+            "Dummy": {
+                "message": 64,
+                "remove_friend": 21
+            }
+        },
+        "ngs": {}
+    },
+    "1e010f514b1c4c7ea1ce4ceedae0d0fb": {
+        "commands": {
+            "Dummy": {
+                "message": 61,
+                "remove_friend": 9
+            }
+        },
+        "ngs": {}
+    },
+    "1378dac09c39482885f18ad7fb69889e": {
+        "commands": {
+            "Dummy": {
+                "message": 47,
+                "remove_friend": 10
+            }
+        },
+        "ngs": {}
+    },
+    "c227f097c4af44df8b8ed4f1894d5f33": {
+        "commands": {
+            "Dummy": {
+                "message": 113,
+                "remove_friend": 16
+            }
+        },
+        "ngs": {}
+    },
+    "2ed434ca8a9f44f99065fd69c05a6277": {
+        "commands": {
+            "Dummy": {
+                "message": 94,
+                "remove_friend": 10
+            }
+        },
+        "ngs": {}
+    },
+    "a6a148ef286945feaf58381189d19f1f": {
+        "commands": {
+            "Dummy": {
+                "message": 59,
+                "remove_friend": 12
+            }
+        },
+        "ngs": {}
+    },
+    "30d2624ee62f4bb0bf32a1170c8ccf55": {
+        "commands": {
+            "Dummy": {
+                "message": 56,
+                "remove_friend": 7
+            }
+        },
+        "ngs": {}
+    },
+    "0eca367991184141b084ece1bdc25e11": {
+        "commands": {
+            "Dummy": {
+                "message": 123,
+                "remove_friend": 20
+            }
+        },
+        "ngs": {}
+    },
+    "11eed0312ec44205b5acd806110e0aac": {
+        "commands": {
+            "Dummy": {
+                "message": 5
+            }
+        },
+        "ngs": {}
+    },
+    "371b907f12c843f38172d48845912738": {
+        "commands": {
+            "Dummy": {
+                "message": 54,
+                "remove_friend": 14
+            }
+        },
+        "ngs": {}
+    },
+    "1521f1f8e4584a0d9061c332d581b6da": {
+        "commands": {
+            "Dummy": {
+                "message": 24
+            }
+        },
+        "ngs": {}
+    },
+    "44e4b8cc771a46f3972a2d987d09f214": {
+        "commands": {
+            "Dummy": {
+                "message": 1
+            }
+        },
+        "ngs": {}
+    },
+    "72257a07f29b43409ec6156b7e7e052a": {
+        "commands": {
+            "Dummy": {
+                "message": 1
+            }
+        },
+        "ngs": {}
+    },
+    "9ee9cf2473f04cdf93aaae02b2bded51": {
+        "commands": {
+            "Dummy": {
+                "message": 4
+            }
+        },
+        "ngs": {}
+    },
+    "7ceba80e1bec4baab3b907e7817bf7bb": {
+        "commands": {
+            "Dummy": {
+                "message": 1
+            }
+        },
+        "ngs": {}
+    },
+    "459dc3bfc93b4026b373c3cb05f0adc8": {
+        "commands": {
+            "Dummy": {
+                "message": 5
+            }
+        },
+        "ngs": {}
+    },
+    "dc73841466f34828b488f2cf4fffca33": {
+        "commands": {
+            "Dummy": {
+                "message": 17,
+                "remove_friend": 1
+            }
+        },
+        "ngs": {}
+    },
+    "1b1411d03f3642c88876cacfae05e99b": {
+        "commands": {
+            "Dummy": {
+                "message": 3
+            },
+            "929815875576537128": {
+                "friend_count": 1
+            }
+        },
+        "ngs": {}
+    },
+    "a1d577440f8d489f91d57c25e1f29ed7": {
+        "commands": {
+            "Dummy": {
+                "message": 7,
+                "remove_friend": 1
+            },
+            "929815875576537128": {
+                "friend_count": 1
+            }
+        },
+        "ngs": {}
+    },
+    "13ab273ee9ff4213ba5b79b00009bb51": {
+        "commands": {
+            "Dummy": {
+                "message": 6
+            }
+        },
+        "ngs": {}
+    },
+    "2fa86f099a5d4b269cdccf90986196ba": {
+        "commands": {
+            "Dummy": {
+                "message": 3
+            }
+        },
+        "ngs": {}
+    },
+    "c194f66eb1ff40d083f8212f649efdf1": {
+        "commands": {
+            "Dummy": {
+                "message": 4
+            }
+        },
+        "ngs": {}
+    },
+    "8d0db29d0fb7415793df21667e2cc180": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 1
+            }
+        },
+        "ngs": {}
+    },
+    "4525447b6b2d49e0958e22d79d4db25f": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 1
+            }
+        },
+        "ngs": {}
+    },
+    "6ee982ffc3a94d17891a1749639c9336": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 1
+            }
+        },
+        "ngs": {}
+    },
+    "9abea4ff7d164d4985a8616d5797b856": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 1
+            }
+        },
+        "ngs": {}
+    },
+    "e54d7eac07194e6b96f9d55376bcc8c2": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 1
+            }
+        },
+        "ngs": {}
+    },
+    "986f6c9b016c49b99f9d1d127e2b774b": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 1
+            }
+        },
+        "ngs": {}
+    },
+    "b765493a3b184605a3be611150fdcf02": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 1
+            }
+        },
+        "ngs": {}
+    },
+    "e00902b73d80464fb98e2aba312b1cef": {
+        "commands": {
+            "929815875576537128": {
+                "friend_count": 1
+            }
+        },
+        "ngs": {}
+    },
+    "c0883dcbed81498aaea990883fe492d0": {
+        "commands": {
+            "Dummy": {
+                "message": 90
+            }
+        },
+        "ngs": {}
+    },
+    "66fd791e27124afa90d39c238eab0cbb": {
+        "commands": {
+            "Dummy": {
+                "message": 129
+            }
+        },
+        "ngs": {}
+    },
+    "e05d4918f5364dcdb494cb2b88cf25af": {
+        "commands": {
+            "Dummy": {
+                "message": 97
+            }
+        },
+        "ngs": {}
+    },
+    "42b2abd5a2964eedb07c990d1283c9fa": {
+        "commands": {
+            "Dummy": {
+                "message": 856
+            }
+        },
+        "ngs": {}
+    },
+    "c0d817e2fa9b49fb90f0f9e4ff8fddcc": {
+        "commands": {
+            "Dummy": {
+                "message": 342
+            }
+        },
+        "ngs": {}
+    },
+    "535ac7cfc8094392a037ada6267ff8e6": {
+        "commands": {
+            "Dummy": {
+                "message": 69
+            }
+        },
+        "ngs": {}
+    },
+    "08fbaa461ebc4711bc9c6a53391e6eae": {
+        "commands": {
+            "Dummy": {
+                "message": 221
+            }
+        },
+        "ngs": {}
+    },
+    "0f79ab68aa7e4c9b914910adb27c75b9": {
+        "commands": {
+            "Dummy": {
+                "message": 113
+            }
+        },
+        "ngs": {}
+    },
+    "255eb56f572b44d0aae4076b41411f22": {
+        "commands": {
+            "Dummy": {
+                "message": 137
+            }
+        },
+        "ngs": {}
+    },
+    "2864d2015b74468d97930fb0610176fe": {
+        "commands": {
+            "Dummy": {
+                "message": 61
+            }
+        },
+        "ngs": {}
+    },
+    "3a4358dda16345b8b74826adec8cf1e5": {
+        "commands": {
+            "Dummy": {
+                "message": 259
+            }
+        },
+        "ngs": {}
+    },
+    "79305fd5798c434fb3360ce8faa04d2b": {
+        "commands": {
+            "Dummy": {
+                "message": 269
+            }
+        },
+        "ngs": {}
+    },
+    "186e59753a164e15abc9b1784ca1f001": {
+        "commands": {
+            "Dummy": {
+                "message": 54
+            }
+        },
+        "ngs": {}
+    },
+    "d0b978cf6426436e920089d3c3822571": {
+        "commands": {
+            "Dummy": {
+                "message": 93
+            }
+        },
+        "ngs": {}
+    },
+    "a3ec8e3fac0f46b3b340929156a71fff": {
+        "commands": {
+            "Dummy": {
+                "message": 73
+            }
+        },
+        "ngs": {}
+    },
+    "8daa03e1255542c2a65692bb671e02e2": {
+        "commands": {
+            "Dummy": {
+                "message": 96
+            }
+        },
+        "ngs": {}
+    },
+    "ec963014cc2b40eb9e4aa474f275bdc4": {
+        "commands": {
+            "Dummy": {
+                "message": 49
+            }
+        },
+        "ngs": {}
+    },
+    "4f5aa8abd9fb46098401567d257a1e1f": {
+        "commands": {
+            "Dummy": {
+                "message": 105
+            }
+        },
+        "ngs": {}
+    },
+    "3a15cf2625d446dcb8ce6fed9cd27d26": {
+        "commands": {
+            "Dummy": {
+                "message": 272
+            }
+        },
+        "ngs": {}
+    },
+    "7e171c87f37146b5a2868f78dc5d5db2": {
+        "commands": {
+            "Dummy": {
+                "message": 272
+            }
+        },
+        "ngs": {}
+    },
+    "ed31f5b90f0546b2900b5c6dbfe9a62f": {
+        "commands": {
+            "Dummy": {
+                "message": 101
+            }
+        },
+        "ngs": {}
+    },
+    "07dd57e6fc9a4c9883b65fef8e67d186": {
+        "commands": {
+            "Dummy": {
+                "message": 273
+            }
+        },
+        "ngs": {}
+    },
+    "496403b57a7e42d7bc42b50c793229f7": {
+        "commands": {
+            "Dummy": {
+                "message": 120
+            }
+        },
+        "ngs": {}
+    },
+    "6aabca080e4249d8b2bd3db0a5d4b8bc": {
+        "commands": {
+            "Dummy": {
+                "message": 132
+            }
+        },
+        "ngs": {}
+    },
+    "34ada487b6394d9184865d3752da940e": {
+        "commands": {
+            "Dummy": {
+                "message": 78
+            }
+        },
+        "ngs": {}
+    },
+    "2ee8ba20ad6146bd9d5c2d96719d4af2": {
+        "commands": {
+            "Dummy": {
+                "message": 393
+            }
+        },
+        "ngs": {}
+    },
+    "75f9f3662b4c4aa087adb08ccf4be5fc": {
+        "commands": {
+            "Dummy": {
+                "message": 85
+            }
+        },
+        "ngs": {}
+    },
+    "24f7404806d148a48cfb02a7e9a1c150": {
+        "commands": {
+            "Dummy": {
+                "message": 60
+            }
+        },
+        "ngs": {}
+    },
+    "c44f6b0127164b27a0abee14497a37c9": {
+        "commands": {
+            "Dummy": {
+                "message": 235
+            }
+        },
+        "ngs": {}
+    },
+    "34ff25aca9734411b9687481938b340a": {
+        "commands": {
+            "Dummy": {
+                "message": 71
+            }
+        },
+        "ngs": {}
+    },
+    "bb4ef7e6a58b4090b706a5814152c51f": {
+        "commands": {
+            "Dummy": {
+                "message": 107
+            }
+        },
+        "ngs": {}
+    },
+    "649e087c6c01431d94483aabadc54c03": {
+        "commands": {
+            "Dummy": {
+                "message": 277
+            }
+        },
+        "ngs": {}
+    },
+    "1084c8ee167d41ebabaedead25244670": {
+        "commands": {
+            "Dummy": {
+                "message": 116
+            }
+        },
+        "ngs": {}
+    },
+    "c198fbc8c99a4ca0ae44087ce661b318": {
+        "commands": {
+            "Dummy": {
+                "message": 443
+            }
+        },
+        "ngs": {}
+    },
+    "c7d4081a14084b5f990b7b3d5a7b9c4e": {
+        "commands": {
+            "Dummy": {
+                "message": 380
+            }
+        },
+        "ngs": {}
+    },
+    "a67fb59add614e30a1bfe27ac4da4442": {
+        "commands": {
+            "Dummy": {
+                "message": 158
+            }
+        },
+        "ngs": {}
+    },
+    "977bc81c619d4408bc46d9e5e5bd13d3": {
+        "commands": {
+            "Dummy": {
+                "message": 253
+            }
+        },
+        "ngs": {}
+    },
+    "11a0f2985079445b8a06dce3c4324792": {
+        "commands": {
+            "Dummy": {
+                "message": 122
+            }
+        },
+        "ngs": {}
+    },
+    "691fd8c5ca1a429e9331ab03a92e0a4b": {
+        "commands": {
+            "Dummy": {
+                "message": 343
+            }
+        },
+        "ngs": {}
+    },
+    "b42904c029af4e63a9423f62c3aa9d66": {
+        "commands": {
+            "Dummy": {
+                "message": 149
+            }
+        },
+        "ngs": {}
+    },
+    "476f38d940c14259bc4b2d2c9d35d17d": {
+        "commands": {
+            "Dummy": {
+                "message": 97
+            }
+        },
+        "ngs": {}
+    },
+    "398fbc01b3a3477fba11591852c33ffb": {
+        "commands": {
+            "Dummy": {
+                "message": 12463,
+                "remove_friend": 328
+            },
+            "929815875576537128": {
+                "friend_count": 17
+            },
+            "91347ba917c24723b9f14d745f33d74b": {
+                "emote": 17,
+                "outfit": 7
+            },
+            "7f3d562c19d34f1ba724a377d926e594": {
+                "emote": 1
+            },
+            "be899949f7ab4a229f355cf59dcb850d": {
+                "help": 2,
+                "outfit": 8,
+                "emote": 5,
+                "set": 1
+            },
+            "0d37e4e7c91f4455b6462bf9fc1e8ae0": {
+                "emote": 1
+            },
+            "24522cedad2b4995b8e9a7572dfb443d": {
+                "emote": 1
+            },
+            "5431bdf0bada4f8fb1d6b64b0210af31": {
+                "emote": 4
+            },
+            "4b61b49a596b4ff9ae703a2694852c40": {
+                "emote": 2
+            },
+            "c2f79da1b9104985bf7eb8d66c7eada8": {
+                "emote": 19
+            },
+            "e49b4ef8bfd84394a5ac6c124e339b11": {
+                "emote": 7
+            },
+            "88bdc5ca585c421485d3d90cb9fb8dbc": {
+                "emote": 6
+            },
+            "5381d68e8eb34f3d885c20cfbd2fd419": {
+                "help": 1
+            },
+            "9ec5492b13bd4aeb9c6175bff7a4474c": {
+                "emote": 43,
+                "pickaxe": 1,
+                "outfit": 3
+            },
+            "38f7d731a8d44ea6a0805f1c40bc1b9e": {
+                "emote": 2
+            }
+        },
+        "ngs": {}
+    },
+    "53fc48898afe49f580a48a5ec74686d2": {
+        "commands": {
+            "Dummy": {
+                "message": 19134,
+                "remove_friend": 551
+            },
+            "929815875576537128": {
+                "friend_count": 17
+            }
+        },
+        "ngs": {}
+    },
+    "4086d1b57d114b4cb60f67ac0d18251c": {
+        "commands": {
+            "Dummy": {
+                "message": 9323,
+                "remove_friend": 246
+            },
+            "929815875576537128": {
+                "friend_count": 17
+            }
+        },
+        "ngs": {}
+    },
+    "dfd7aeaefac14e63b543929d0e0310e8": {
+        "commands": {
+            "Dummy": {
+                "message": 3362,
+                "remove_friend": 81
+            },
+            "929815875576537128": {
+                "friend_count": 17
+            }
+        },
+        "ngs": {}
+    },
+    "5cb4c3d81f21434a84454624f92bb09c": {
+        "commands": {
+            "Dummy": {
+                "message": 3477,
+                "remove_friend": 97
+            },
+            "929815875576537128": {
+                "friend_count": 17
+            }
+        },
+        "ngs": {}
+    },
+    "f0f4f672031742d4a38d1b3812c38242": {
+        "commands": {
+            "Dummy": {
+                "message": 7824,
+                "remove_friend": 194
+            },
+            "929815875576537128": {
+                "friend_count": 17
+            }
+        },
+        "ngs": {}
+    },
+    "7095b92d3d184444b403241b4a8143ba": {
+        "commands": {
+            "Dummy": {
+                "message": 49740,
+                "remove_friend": 1460
+            },
+            "929815875576537128": {
+                "friend_count": 17
+            }
+        },
+        "ngs": {}
+    },
+    "be7623afdea940ef8fbb0bf838abd41f": {
+        "commands": {
+            "Dummy": {
+                "message": 8124,
+                "remove_friend": 181
+            },
+            "929815875576537128": {
+                "friend_count": 17
+            }
+        },
+        "ngs": {}
+    },
+    "74537fe9b6234b79945af2cc3fc663a9": {
+        "commands": {
+            "Dummy": {
+                "message": 2686,
+                "remove_friend": 73
+            },
+            "929815875576537128": {
+                "friend_count": 17
+            }
+        },
+        "ngs": {}
+    },
+    "661daf2384654a7da9fee7bd12d485b0": {
+        "commands": {
+            "Dummy": {
+                "message": 31041,
+                "remove_friend": 805
+            },
+            "929815875576537128": {
+                "friend_count": 17
+            }
+        },
+        "ngs": {}
+    },
+    "18c43c2e5da04e6293ef9d07010225da": {
+        "commands": {
+            "Dummy": {
+                "message": 8728,
+                "remove_friend": 215
+            },
+            "929815875576537128": {
+                "friend_count": 17
+            }
+        },
+        "ngs": {}
+    },
+    "26543888c03f4ca28be0edbae4d70f87": {
+        "commands": {
+            "Dummy": {
+                "message": 2359,
+                "remove_friend": 66
+            },
+            "929815875576537128": {
+                "friend_count": 17
+            }
+        },
+        "ngs": {}
+    },
+    "31e03a6a02744acb8e868db884c66fd0": {
+        "commands": {
+            "Dummy": {
+                "message": 6843,
+                "remove_friend": 195
+            },
+            "929815875576537128": {
+                "friend_count": 17
+            }
+        },
+        "ngs": {}
+    },
+    "3be1fb5ba3454f9e8888cdeb5637aefc": {
+        "commands": {
+            "Dummy": {
+                "message": 10721,
+                "remove_friend": 287
+            },
+            "929815875576537128": {
+                "friend_count": 17
+            }
+        },
+        "ngs": {}
+    },
+    "c5e46b4f0ba549d885bed541304d36a2": {
+        "commands": {
+            "Dummy": {
+                "message": 2804,
+                "remove_friend": 86
+            },
+            "929815875576537128": {
+                "friend_count": 17
+            }
+        },
+        "ngs": {}
+    },
+    "aa3cb64af88744ebb8f17a3bcbdd7b90": {
+        "commands": {
+            "Dummy": {
+                "message": 10462,
+                "remove_friend": 268
+            },
+            "929815875576537128": {
+                "friend_count": 17
+            }
+        },
+        "ngs": {}
+    },
+    "e2adbf4c174b4daeaaaca22edfbeb4f0": {
+        "commands": {
+            "Dummy": {
+                "message": 20346,
+                "remove_friend": 560
+            },
+            "929815875576537128": {
+                "friend_count": 17
+            }
+        },
+        "ngs": {}
+    },
+    "d5bd169635f84873b41199d62c538209": {
+        "commands": {
+            "Dummy": {
+                "message": 8654,
+                "remove_friend": 213
+            },
+            "929815875576537128": {
+                "friend_count": 17
+            }
+        },
+        "ngs": {}
+    },
+    "f45d954dc5134595b6e9d02712063b92": {
+        "commands": {
+            "Dummy": {
+                "message": 11610,
+                "remove_friend": 293
+            },
+            "929815875576537128": {
+                "friend_count": 17
+            }
+        },
+        "ngs": {}
+    },
+    "956b98fe749849568541b3866e2610b0": {
+        "commands": {
+            "Dummy": {
+                "message": 32558,
+                "remove_friend": 857
+            },
+            "929815875576537128": {
+                "friend_count": 17
+            }
+        },
+        "ngs": {}
+    },
+    "cd7534ee6120427e8cf405677bfae6dd": {
+        "commands": {
+            "Dummy": {
+                "message": 13277,
+                "remove_friend": 394
+            },
+            "929815875576537128": {
+                "friend_count": 17
+            }
+        },
+        "ngs": {}
+    },
+    "b1e86ed026cd44939e09b8602df45900": {
+        "commands": {
+            "Dummy": {
+                "message": 38449,
+                "remove_friend": 924
+            },
+            "929815875576537128": {
+                "friend_count": 17
+            }
+        },
+        "ngs": {}
+    },
+    "8006a2b848cb4e52bba6b1fbebf1fbda": {
+        "commands": {
+            "Dummy": {
+                "message": 46705,
+                "remove_friend": 1281
+            }
+        },
+        "ngs": {}
+    },
+    "7c957d4d3d3f4880bd81cf94bcfc83fb": {
+        "commands": {
+            "Dummy": {
+                "message": 8302,
+                "remove_friend": 248
+            }
+        },
+        "ngs": {}
+    },
+    "90a92db256c340ef83ed86a6dee15723": {
+        "commands": {
+            "Dummy": {
+                "message": 26394,
+                "remove_friend": 643
+            }
+        },
+        "ngs": {}
+    },
+    "46a82c1f218d4bd7902b13844edb018d": {
+        "commands": {
+            "Dummy": {
+                "message": 22628,
+                "remove_friend": 679
+            }
+        },
+        "ngs": {}
+    },
+    "136bf8e3767348c3b153dd8d6f305ed4": {
+        "commands": {
+            "Dummy": {
+                "message": 12332,
+                "remove_friend": 304
+            }
+        },
+        "ngs": {}
+    },
+    "f3ffc2a5a98241c8b9b97a2a210a9299": {
+        "commands": {
+            "Dummy": {
+                "message": 12152,
+                "remove_friend": 342
+            }
+        },
+        "ngs": {}
+    },
+    "23555bb75ccf4fea977183d22009dac1": {
+        "commands": {
+            "Dummy": {
+                "message": 10676,
+                "remove_friend": 305
+            }
+        },
+        "ngs": {}
+    },
+    "662e5d4f228f4c64b1349c595b1197c9": {
+        "commands": {
+            "Dummy": {
+                "message": 10814,
+                "remove_friend": 286
+            }
+        },
+        "ngs": {}
+    },
+    "909c56a7c0014b50919ada92ec2b0704": {
+        "commands": {
+            "Dummy": {
+                "message": 32693,
+                "remove_friend": 787
+            }
+        },
+        "ngs": {}
+    },
+    "3d3586149ac34dcd9d15d2f1ff37e10f": {
+        "commands": {
+            "Dummy": {
+                "message": 34610,
+                "remove_friend": 857
+            }
+        },
+        "ngs": {}
+    },
+    "98a6ae6f60274f429de193c1c8fe4eb2": {
+        "commands": {
+            "Dummy": {
+                "message": 11423,
+                "remove_friend": 311
+            }
+        },
+        "ngs": {}
+    },
+    "91ac2585b80044b3821289de935c13bc": {
+        "commands": {
+            "Dummy": {
+                "message": 48910,
+                "remove_friend": 1381
+            }
+        },
+        "ngs": {}
+    },
+    "f6d63c31ae234902b2cccc31544b7dc7": {
+        "commands": {
+            "Dummy": {
+                "message": 13777,
+                "remove_friend": 343
+            }
+        },
+        "ngs": {}
+    },
+    "cf98d2c609df4f28bd067932b9cc647b": {
+        "commands": {
+            "Dummy": {
+                "message": 9179,
+                "remove_friend": 222
+            }
+        },
+        "ngs": {}
+    },
+    "15d6bc0fd6b248119ef7d99743456320": {
+        "commands": {
+            "Dummy": {
+                "message": 3299,
+                "remove_friend": 99
+            }
+        },
+        "ngs": {}
+    },
+    "55dd96ea84e340ada08d594c3d93997f": {
+        "commands": {
+            "Dummy": {
+                "message": 7176,
+                "remove_friend": 148
+            }
+        },
+        "ngs": {}
+    },
+    "827c35c868ba4118a9f978e7e2e45e7d": {
+        "commands": {
+            "Dummy": {
+                "message": 6459,
+                "remove_friend": 174
+            }
+        },
+        "ngs": {}
+    },
+    "bc58df4c8ba2434e9d60e342bd78f2cb": {
+        "commands": {
+            "Dummy": {
+                "message": 16999,
+                "remove_friend": 389
+            }
+        },
+        "ngs": {}
+    },
+    "228e530fe41e4908a96046945ac4991c": {
+        "commands": {
+            "Dummy": {
+                "message": 6325,
+                "remove_friend": 155
+            }
+        },
+        "ngs": {}
+    },
+    "a1c502b2b255467aa5904ee822d1d081": {
+        "commands": {
+            "Dummy": {
+                "message": 9376,
+                "remove_friend": 229
+            }
+        },
+        "ngs": {}
+    },
+    "ff9e9b7841e34ef89a12ade042affc33": {
+        "commands": {
+            "Dummy": {
+                "message": 52621,
+                "remove_friend": 1483
+            }
+        },
+        "ngs": {}
+    },
+    "b878db3d53854ff6a014c68bf9b85450": {
+        "commands": {
+            "Dummy": {
+                "message": 2813,
+                "remove_friend": 74
+            }
+        },
+        "ngs": {}
+    },
+    "356c28e19a2f41adb4648521c91b8ae9": {
+        "commands": {
+            "Dummy": {
+                "message": 10801,
+                "remove_friend": 339
+            }
+        },
+        "ngs": {}
+    },
+    "0bb9a93062444a1ca2345568bba1f675": {
+        "commands": {
+            "Dummy": {
+                "message": 26032,
+                "remove_friend": 614
+            }
+        },
+        "ngs": {}
+    },
+    "e48cd942905f476bac4c7dd98c613b32": {
+        "commands": {
+            "Dummy": {
+                "message": 8386,
+                "remove_friend": 175
+            }
+        },
+        "ngs": {}
+    },
+    "df60b9c8a34f4f6d9e1cd63e4c7bea78": {
+        "commands": {
+            "Dummy": {
+                "message": 10785,
+                "remove_friend": 235
+            }
+        },
+        "ngs": {}
+    },
+    "351989acc92b4ca185037351d5db51b8": {
+        "commands": {
+            "Dummy": {
+                "message": 193
+            }
+        },
+        "ngs": {}
+    },
+    "0b49e542ab2243aba45989c5e1280527": {
+        "commands": {
+            "Dummy": {
+                "message": 294
+            }
+        },
+        "ngs": {}
+    },
+    "ef34d381a66b4b7a81768c90d081cd49": {
+        "commands": {
+            "Dummy": {
+                "message": 8
+            }
+        },
+        "ngs": {}
+    }
+}
